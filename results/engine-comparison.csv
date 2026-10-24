@@ -1,0 +1,3 @@
+engine,gpu_configuration,model_quantization,mtp_assets_loaded,decode_median_tokens_per_second,direct_api_quality_passes,direct_api_quality_total,opencode_version,opencode_tasks_passed,opencode_tasks_total,recorded_tool_failures,max_actual_opencode_input_tokens,opencode_auto_compaction
+0.1.40,2x RTX 3060 12GB,IQ3_S,false,46.1,3,3,2.0.24,10,10,5,230867,true
+0.1.46,2x RTX 3060 12GB,IQ3_S,false,51.2,3,3,2.0.24,10,10,0,230526,true
